@@ -1,0 +1,23 @@
+.header {
+  background-color: rgb(163, 163, 248);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  padding: 10px;
+  position: relative;
+}
+.icon {
+  position: absolute;
+  top: 26px;
+  left: 20px;
+}
+.input {
+  width: 500px;
+  height: 50px;
+  padding-left: 40px;
+  border-radius: 5px;
+  border: none;
+  font-size: 20px;
+}
